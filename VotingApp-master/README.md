@@ -21,8 +21,3 @@
 - MySQL
 
 
-
-
-### Project Creator: Swapnil Bamble
-
-
